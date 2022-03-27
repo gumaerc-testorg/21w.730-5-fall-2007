@@ -5,10 +5,10 @@ file: /media/courses/21w-730-5-writing-on-contemporary-issues-imagining-the-futu
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: essay3_robots.pdf
+type: OCWFile
 uid: 66b6a487-1e4b-356a-2070-0b3b3f815a6c
 ---

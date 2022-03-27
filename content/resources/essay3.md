@@ -5,10 +5,10 @@ file: /media/courses/21w-730-5-writing-on-contemporary-issues-imagining-the-futu
 file_type: application/pdf
 learning_resource_types:
 - Assignments
-ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: essay3.pdf
+type: OCWFile
 uid: 80d49c00-6c57-e968-e2cc-f40b4fba44d4
 ---
