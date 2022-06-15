@@ -1,8 +1,11 @@
 ---
 content_type: page
+description: The syllabus section provides the course description and information
+  about texts and films, workshops, course requirements, plagiarism policy, deadlines,
+  conferences, attendance, evaluation, grading criteria, and recommended citation.
 learning_resource_types: []
+ocw_type: ''
 title: Syllabus
-type: CourseSection
 uid: 368c86de-cb94-e60d-3545-62eb4d8eef6a
 ---
 
@@ -19,7 +22,7 @@ Turn-of-the-century eras have historically been times when people are more than 
 Texts and Films
 ---------------
 
-Please see [readings]({{< baseurl >}}/pages/readings) for more detailed information about the following listed items.
+Please see {{% resource_link 712f84ef-9ce3-2997-95dd-dea5da6696ee "readings" %}} for more detailed information about the following listed items.
 
 *   Margaret Atwood, _Oryx and Crake_
 *   Ray Bradbury, _Fahrenheit 451_
@@ -33,7 +36,7 @@ Please see [readings]({{< baseurl >}}/pages/readings) for more detailed informat
 *   Andy and Larry Wachowski, _The Matrix_ (film)
 *   Andrea Lunsford, _Easy Writer_ (handbook)
 
-_Easy Writer_ is your reference for matters of format and correctness. It will also provide you with guidelines and instruction on the spirit and mechanics of using and citing sources accurately in your work. **We will use the MLA in-text citation system in this course**. (Please see [study materials]({{< baseurl >}}/pages/study-materials) for online guides on MLA documentation.) It is essential that you also have ready access to a good current college dictionary.
+_Easy Writer_ is your reference for matters of format and correctness. It will also provide you with guidelines and instruction on the spirit and mechanics of using and citing sources accurately in your work. **We will use the MLA in-text citation system in this course**. (Please see {{% resource_link 17e834b5-b81b-e72e-4aef-27e7afa66a06 "study materials" %}} for online guides on MLA documentation.) It is essential that you also have ready access to a good current college dictionary.
 
 Workshops
 ---------
@@ -51,7 +54,7 @@ The reading we will do together invites careful scrutiny of the world we live in
 
 During the semester you will write four major assignments, varying somewhat in length but generally between three and eight pages. For each assignment, you will first submit a brief proposal and then the essay itself, as complete and polished as you are able to make it (in other words, a first version but **not** a rough draft). Your work will be read closely and carefully by me and by members of the class and discussed in workshops; you will also have the opportunity to meet with me in individual conferences to discuss revision possibilities. You will then revise with the support, suggestions, and encouragement of your readers.
 
-In addition to the four formal assignments, there will be occasions for more informal writing. You will keep a _Reader's Notebook_—a place for you to write informally to explore the reading and films, raise questions, record your responses. Most of the notebook writing will be done outside of class, but occasional brief in-class writing will also be part of your notebook. The purpose of the notebook is to use writing as a way to engage more deeply with the reading and to prepare you for class discussion and for writing your essays. I will collect the notebooks at random, a few at a time, so please **always bring your notebook to class with you**. For more information on the notebook, see [assignments]({{< baseurl >}}/pages/assignments).
+In addition to the four formal assignments, there will be occasions for more informal writing. You will keep a _Reader's Notebook_—a place for you to write informally to explore the reading and films, raise questions, record your responses. Most of the notebook writing will be done outside of class, but occasional brief in-class writing will also be part of your notebook. The purpose of the notebook is to use writing as a way to engage more deeply with the reading and to prepare you for class discussion and for writing your essays. I will collect the notebooks at random, a few at a time, so please **always bring your notebook to class with you**. For more information on the notebook, see {{% resource_link 3e174a01-8ca6-3f41-d25f-8a410d021035 "assignments" %}}.
 
 ### Oral Presentations
 

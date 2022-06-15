@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: The readings section provides information on course texts and films,
+  and the writing handbook.
 learning_resource_types: []
+ocw_type: ''
 title: Readings
-type: CourseSection
 uid: 712f84ef-9ce3-2997-95dd-dea5da6696ee
 ---
 

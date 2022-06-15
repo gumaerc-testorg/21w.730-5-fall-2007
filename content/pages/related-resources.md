@@ -1,8 +1,10 @@
 ---
 content_type: page
+description: This section provides links to related resources on writing, citing resources,
+  authors, and films.
 learning_resource_types: []
+ocw_type: ''
 title: Related Resources
-type: CourseSection
 uid: 5c4c30d2-5249-b1d3-f1b3-66428f5d4992
 ---
 
