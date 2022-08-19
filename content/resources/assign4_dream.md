@@ -6,6 +6,7 @@ file: /courses/21w-730-5-writing-on-contemporary-issues-imagining-the-future-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assign4_dream.pdf
 uid: 2f5b3206-f22d-0e13-3241-0a1f9ed1737c
 ---
 Example of student work: "Analysis: Understanding the Dream" by Bonilla, Tabitha.
-

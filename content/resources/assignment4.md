@@ -5,6 +5,7 @@ file: /courses/21w-730-5-writing-on-contemporary-issues-imagining-the-future-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: assignment4.pdf
 uid: d50f70dd-d92d-735d-2274-7e12525f489d
 ---
 Guidelines and instructions for Assignment IV.
-

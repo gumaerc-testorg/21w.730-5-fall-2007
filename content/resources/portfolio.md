@@ -6,6 +6,7 @@ file: /courses/21w-730-5-writing-on-contemporary-issues-imagining-the-future-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: portfolio.pdf
 uid: 29743052-0b01-9d7d-40fd-caf74e98b8ff
 ---
 Instructions and guidelines for preparing a portfolio of student work for submission.
-

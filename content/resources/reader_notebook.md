@@ -6,6 +6,7 @@ file: /courses/21w-730-5-writing-on-contemporary-issues-imagining-the-future-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: reader_notebook.pdf
 uid: d2dfb926-187f-eade-98b5-a4957092c251
 ---
 Guidelines and instructions for maintaining a notebook of written responses to the reading assignments.
-

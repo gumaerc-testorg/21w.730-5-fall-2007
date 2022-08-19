@@ -6,6 +6,7 @@ file: /courses/21w-730-5-writing-on-contemporary-issues-imagining-the-future-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: workshop.pdf
 uid: 3e9c872d-910c-285b-f1a1-608775a0500c
 ---
 Guidelines and instructions for preparing for and participating in the writing workshop.
-
