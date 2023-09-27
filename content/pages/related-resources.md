@@ -1,7 +1,5 @@
 ---
 content_type: page
-description: This section provides links to related resources on writing, citing resources,
-  authors, and films.
 learning_resource_types: []
 ocw_type: ''
 title: Related Resources

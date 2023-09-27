@@ -1,7 +1,5 @@
 ---
 content_type: page
-description: The study materials section provides information on the short, in-class
-  writing exercises periodically administered throughout the course.
 learning_resource_types: []
 ocw_type: ''
 title: Study Materials

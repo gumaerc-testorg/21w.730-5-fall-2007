@@ -1,7 +1,5 @@
 ---
 content_type: page
-description: This section provides information on writing assignments and in-class
-  assignments, and examples of exemplary student work.
 learning_resource_types: []
 ocw_type: ''
 title: Assignments
